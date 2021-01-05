@@ -11,7 +11,7 @@ One of the 10 WebApp challenge projects.
         content="width=device-width, initial-scale=1.0"/>
         <title>Zoom Effect</title>
         <link rel="stylesheet" href="zoom-effect/style.css">
-        <script src="zoom-effect/script.js" defer></script>
+        <script src="https://github.com/eyesofdaveed/zoom-effect/blob/main/script.js" defer></script>
     </head>
     <body>
         <div id="container">
