@@ -3,4 +3,19 @@ Basic zoom effect upon hover
 
 One of the 10 WebApp challenge projects.
 
-http://htmlpreview.github.io/?https://github.com/eyesofdaveed/zoom-effect/blob/main/index.html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport"
+        content="width=device-width, initial-scale=1.0"/>
+        <title>Zoom Effect</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <div id="container">
+            <img src="1.jpg" alt="">
+        </div>  
+    </body>
+</html>
