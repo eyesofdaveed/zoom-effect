@@ -3,6 +3,7 @@ Basic zoom effect upon hover
 
 One of the 10 WebApp challenge projects.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -19,3 +20,4 @@ One of the 10 WebApp challenge projects.
         </div>  
     </body>
 </html>
+```
