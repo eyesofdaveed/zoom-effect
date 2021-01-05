@@ -1,2 +1,5 @@
 # zoom-effect
-Basic zoom effect upon hover (one of 10 webApps challenge)
+Basic zoom effect upon hover
+
+One of the 10 WebApp challenge projects.
+
